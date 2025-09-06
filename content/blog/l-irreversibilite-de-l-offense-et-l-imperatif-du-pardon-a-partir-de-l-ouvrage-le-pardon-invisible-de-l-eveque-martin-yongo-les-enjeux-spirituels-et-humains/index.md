@@ -1,5 +1,5 @@
 ---
-title: L'irréversibilité de l'offense et l'impératif du pardon, à partir de l'ouvrage Le pardon invisible de l'Évêque Martin Yongo : les enjeux spirituels et humains
+title: L'irréversibilité de l'offense et l'impératif du pardon, à partir de l'ouvrage Le pardon invisible de l'Évêque Martin Yongo. Les enjeux spirituels et humains.
 date: 2025-09-09 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

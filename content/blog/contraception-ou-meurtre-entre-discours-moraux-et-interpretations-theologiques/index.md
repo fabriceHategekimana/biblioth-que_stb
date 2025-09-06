@@ -1,5 +1,5 @@
 ---
-title: Contraception ou meurtre : entre discours moraux et interprétations théologiques
+title: Contraception ou meurtre. Entre discours moraux et interprétations théologiques
 date: 2025-09-03 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

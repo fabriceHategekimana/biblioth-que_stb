@@ -1,5 +1,5 @@
 ---
-title: L'herméneutique dans la théologie pratique : Méthodes d'interprétation et leur impact dans la pratique pastorale : Cas des églises de réveil
+title: L'herméneutique dans la théologie pratique. Méthodes d'interprétation et leur impact dans la pratique pastorale. Cas des églises de réveil.
 date: 2025-09-05 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: {
+	pathPrefix: "/fabriceHategekimana/biblioth-que_stb",
     title: `Flexible Gatsby`,
     description: `Seminaire théologique biblique`,
     author: `STB`,

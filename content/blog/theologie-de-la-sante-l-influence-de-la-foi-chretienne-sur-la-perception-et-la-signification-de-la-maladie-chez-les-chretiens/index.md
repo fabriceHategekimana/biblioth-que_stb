@@ -1,5 +1,5 @@
 ---
-title: Théologie de la santé : L'influence de la foi chrétienne sur la perception et la signification de la maladie chez les chrétiens
+title: Théologie de la santé. L'influence de la foi chrétienne sur la perception et la signification de la maladie chez les chrétiens.
 date: 2025-09-19 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

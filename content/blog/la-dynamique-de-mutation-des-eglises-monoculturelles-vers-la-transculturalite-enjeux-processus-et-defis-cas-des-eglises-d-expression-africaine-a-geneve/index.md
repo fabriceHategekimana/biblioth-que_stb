@@ -1,5 +1,5 @@
 ---
-title: La dynamique de mutation des Églises monoculturelles vers la transculturalité : enjeux, processus et défis. Cas des Églises d'expression africaine à Genève
+title: La dynamique de mutation des Églises monoculturelles vers la transculturalité. Enjeux, processus et défis. Cas des Églises d'expression africaine à Genève
 date: 2025-09-10 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

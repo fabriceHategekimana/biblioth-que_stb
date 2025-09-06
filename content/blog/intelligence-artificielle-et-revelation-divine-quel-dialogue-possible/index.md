@@ -1,5 +1,5 @@
 ---
-title: Intelligence artificielle et révélation divine : quel dialogue possible
+title: Intelligence artificielle et révélation divine. Quel dialogue possible?
 date: 2025-09-04 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

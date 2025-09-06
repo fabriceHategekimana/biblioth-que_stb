@@ -1,5 +1,5 @@
 ---
-title: Paroles paternelles blessantes : entre traumatisme et héritage familial
+title: Paroles paternelles blessantes. Entre traumatisme et héritage familial.
 date: 2025-09-16 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

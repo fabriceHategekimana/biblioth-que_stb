@@ -1,5 +1,5 @@
 ---
-title: La prière accompagnée comme médecine douce en aumônerie hospitalière : Enjeux spirituels, psychiques et physique
+title: La prière accompagnée comme médecine douce en aumônerie hospitalière. Enjeux spirituels, psychiques et physique
 date: 2025-09-12 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

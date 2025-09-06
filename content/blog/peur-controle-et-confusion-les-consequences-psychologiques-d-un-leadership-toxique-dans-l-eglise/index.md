@@ -1,5 +1,5 @@
 ---
-title: Peur, contrôle et confusion : les conséquences psychologiques d'un leadership toxique dans l'église
+title: Peur, contrôle et confusion. Les conséquences psychologiques d'un leadership toxique dans l'église.
 date: 2025-09-17 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

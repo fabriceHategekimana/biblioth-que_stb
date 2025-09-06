@@ -1,5 +1,5 @@
 ---
-title: Approche chrétienne de la fécondation in vitro : Enjeux éthiques et théologique
+title: Approche chrétienne de la fécondation in vitro. Enjeux éthiques et théologique
 date: 2025-09-01 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

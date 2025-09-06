@@ -1,5 +1,5 @@
 ---
-title: Le salut eschatologique, du déjà-là et du pas-encore
+title: Le salut eschatologique, du déjà-là et du pas-encore.
 date: 2025-09-13 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

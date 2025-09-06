@@ -1,5 +1,5 @@
 ---
-title: Approche hérésiologique du Kimbanguisme : entre marginalisation doctrinale et légitimation prophétique de Simon Kimbangu. Cas des Églises issues du prophète
+title: Approche hérésiologique du Kimbanguisme entre marginalisation doctrinale et légitimation prophétique de Simon Kimbangu. Cas des Églises issues du prophète
 date: 2025-09-02 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

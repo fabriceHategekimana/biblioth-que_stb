@@ -1,5 +1,5 @@
 ---
-title: Théologie féministe : Jésus-Christ, le Grand Inspirateur
+title: Théologie féministe. Jésus-Christ, le Grand Inspirateur.
 date: 2025-09-20 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

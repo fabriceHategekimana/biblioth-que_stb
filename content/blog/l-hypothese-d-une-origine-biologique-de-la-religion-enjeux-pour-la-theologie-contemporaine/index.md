@@ -1,5 +1,5 @@
 ---
-title: L'hypothèse d'une origine biologique de la religion : Enjeux pour la théologie contemporaine
+title: L'hypothèse d'une origine biologique de la religion. Enjeux pour la théologie contemporaine
 date: 2025-09-06 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

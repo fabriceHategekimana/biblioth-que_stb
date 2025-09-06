@@ -35,10 +35,13 @@
   "devDependencies": {
     "eslint": "^8.8.0",
     "eslint-plugin-react": "^7.34.2",
+    "gh-pages": "^6.3.0",
     "prettier": "^3.3.2"
   },
   "homepage": "https://github.com/wangonya/flexible-gatsby",
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "main": "n/a",
   "repository": {

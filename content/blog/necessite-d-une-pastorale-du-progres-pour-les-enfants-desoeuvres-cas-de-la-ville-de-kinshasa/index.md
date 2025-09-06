@@ -1,5 +1,5 @@
 ---
-title: Nécessité d'une pastorale du progrès pour les enfants désœuvrés. Cas de la ville de Kinshasa
+title: Nécessité d'une pastorale du progrès pour les enfants désœuvrés. Cas de la ville de Kinshasa.
 date: 2025-09-15 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)

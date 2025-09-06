@@ -1,5 +1,5 @@
 ---
-title: Les effets psychologiques du miracle chez les Africains
+title: Les effets psychologiques du miracle chez les Africains.
 date: 2025-09-14 00:00:00 +0300
 description: # Add post description (optional)
 img: ./stb_logo.png # Add image post (optional)
